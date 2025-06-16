@@ -16,4 +16,4 @@ This repository marks the beginning of my JavaScript learning journey. It will t
 ## 🗓️ Day 1: Hello, World!
 
 ```js
-console.log("Hello, World!");
+console.log("Hello, World!")
